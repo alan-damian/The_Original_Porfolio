@@ -1,4 +1,4 @@
-##APARIENCIA ORIGINAL DE LA PLANTILLA
+# APARIENCIA ORIGINAL DE LA PLANTILLA
 https://alan-damian.github.io/The_Original_Porfolio/
 
 # vCard - Personal portfolio
